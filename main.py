@@ -1,3 +1,8 @@
+# ==================================================
+# Quantum Key Distribution Simulation and Post-Processing
+# Author: Kriti Dutta
+# Date: 21.01.2025
+# ==================================================
 import hashlib
 import math
 import time
